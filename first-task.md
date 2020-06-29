@@ -50,7 +50,7 @@ git commit -m "Adding My name"
 git push
 ```
 
-This adds all the files that have bene change and then commits them to your forked repository and then pushes the changes from your local computer to the repository on github.
+This adds all the files that have been changed and then commits them to your forked repository and then pushes the changes from your local computer to the repository on github.
 
 - Go to your forked repo on github and click on "new pull request"
 
